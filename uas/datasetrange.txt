@@ -1,0 +1,10 @@
+label	tanaman		ketinggian	hujan			temperatur
+0	bayam		5-2000mdpl	1000-2000mm/tahun	20-30c
+1	cabai		5-1400mdpl	800-2000mm/tahun	18-30c
+2	jambu air	5-500mdpl	500-3000mm/tahun	10-28c
+3	kentang		300-3000mdpl	2400-3600mm/tahun	13-24c
+4	stroberi	1000-1500mdpl	600-700mm/tahun		17-20c
+
+
+
+

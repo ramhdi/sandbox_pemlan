@@ -1,0 +1,8 @@
+tanaman		ketinggian	hujan			temperatur
+kentang		300-3000mdpl	2400-3600mm/tahun	13-24c
+bayam		5-2000mdpl	1000-2000mm/tahun	20-30c
+stroberi	1000-1500mdpl	600-700mm/tahun		17-20c
+jambu air	5-500mdpl	500-3000mm/tahun	10-28c
+cabai		5-1400mdpl	800-2000mm/tahun	18-30c
+
+
